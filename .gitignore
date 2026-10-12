@@ -107,3 +107,18 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Assets due the license
+/Assets/Imported Assets
+/Assets/MyPrefabs
+/Assets/Animations
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/TextMesh Pro/Examples & Extras/
+/Assets/TextMesh Pro/Examples & Extras.meta
+/Assets/My Materials
+/Assets/My Shaders
+/Assets/MyScriptableObjects
+
+
+
